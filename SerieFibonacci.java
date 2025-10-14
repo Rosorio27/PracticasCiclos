@@ -15,8 +15,7 @@ public class SerieFibonacci {
            int nuevo  = p+s;
            p=s;
            s=nuevo;
-
-            System.out.println(nuevo);
+           System.out.println(nuevo);
         }
     }
 }
